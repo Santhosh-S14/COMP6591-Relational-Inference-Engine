@@ -1,4 +1,4 @@
-# COMP6591_Project
+# Implementation of relational inference engine
 The paper "Using Relational Inference Engine to Answer Questions"
 offers a rapid chatbot learning method that enables it to dynamically and
 automatically learn new information to handle new conversation domains
